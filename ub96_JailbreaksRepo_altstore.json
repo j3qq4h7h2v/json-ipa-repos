@@ -1,0 +1,26 @@
+{
+  "repo": {
+    "name": "JailbreaksRepo",
+    "identifier": "com.ytfanboiii.jbr"
+  },
+  "apps": [
+    {
+      "name": "Cowabunga",
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "filename": "Cowabunga.ipa",
+      "githubOwner": "ub96",
+      "githubRepository": "JailbreaksRepo",
+      "developerName": "Leminlimez",
+      "subtitle": "MACDIRTYCOW Toolbox for ios 14 - 16.1.2",
+      "localizedDescription": "This MDC Toolbox is basically winaero tweaker but for ios",
+      "iconURL": "https://iosninja.io/img/ipas/gba4ios.png",
+      "tintColor": "78209d",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/77479189-8cc25480-6ddc-11ea-98aa-41eabe05c949.png",
+        "https://user-images.githubusercontent.com/705880/77479187-8c29be00-6ddc-11ea-92ee-d4e2de14d781.png",
+        "https://user-images.githubusercontent.com/705880/77479186-8b912780-6ddc-11ea-9303-32c615f2349f.png",
+        "https://user-images.githubusercontent.com/705880/77479180-892ecd80-6ddc-11ea-8705-400257988a2b.png"
+      ]
+    }
+  ]
+}

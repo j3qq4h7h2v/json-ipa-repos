@@ -1,0 +1,66 @@
+{
+    "name": "AK47's Source",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://cdn.pixabay.com/photo/2020/03/04/19/43/galaxy-4902605_1280.jpg",
+    "headerURL": "https://i.pinimg.com/736x/58/fe/ad/58feadbd356bad0255cb098fdef7ede3.jpg",
+    "website": "https://github.com/ak47-09",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "company.thebrowser.ArcMobile2",
+        "com.github.stormbreaker",
+    ],
+    "apps": [
+        {
+            "name": "Arc Search",
+            "bundleIdentifier": "company.thebrowser.ArcMobile2",
+            "developerName": "The Browser Company",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "Arc Search - World's first AI-powered Browser.",
+            "iconURL": "https://play-lh.googleusercontent.com/qYgB3jyi_AG1Iy7xnDgMBW8D6lg3YkVdJkkdSVccs7pGqsC8CcGF-S44yNs0-jp8dXGh",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://images.refero.design/screenshots/121/mobile/cf394e64-5217-4485-9a04-e082794576c5_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/48d2195a-abb1-45a6-ab6c-aabbae2f739b_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/cdd3f480-08b5-4dbf-9ea3-5339d568ee1e_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/828a9ca0-20aa-4c6e-ab2f-e4c4bc51477e_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/96138805-1b6b-4e29-a449-b2ae6fa3affc_thumb.jpg",
+            ],
+            "versions": [
+                {
+                    "version": "1.43.0",
+                    "date": "2025-04-01T09:00:00-08:00",
+                    "size": 194900000,
+                    "downloadURL": "https://download1584.mediafire.com/c96okga16cugDHYht7xJM2sHyIRZb4WTMLVm3qF9z1R-cEA7rT8AahXTtpSwt-9i1jsMZX4LG96ELUFMKgNVOl6IcoKyzqmMyyJ3XNKvOrZJzHB2tFH1_Nosau_zAISpQR7NDRyGVsJeWynLL63ztumAU4kroBQulKHJFb3W/ruv101jvwecsoa7/company.thebrowser.ArcMobile2_1.43.0_und3fined.ipa",
+                    "localizedDescription": "Thank you for using Arc Search! We've made tweaks to improve Browse For Me results as well as fixes for four IOS security issues. Happy browsing!",
+                    "minOSVersion": "16.0"
+                }
+            ]
+        },
+        {
+            "name": "Github",
+            "bundleIdentifier": "com.github.stormbreaker",
+            "developerName": "Github",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "Github for mobile",
+            "iconURL": "https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.png?v=1750639266901",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://download1075.mediafire.com/5qwvs2yu4kegmwKuJetaIr8IAJxAW-fUuVaanDU_WccSeYyJRE-B3NU-GKrPeewzX-zVnowa8rICiKE9nTHNoxN9RAS8xwmMFc4h4TZvm9vTVIYUrOTygJnvZyHfmNJT2u3LOoC4vvvRJE845tehP15bZwLwpBIBmys1aQybCx4/56qcu80tqo5szqw/github1.jpg",
+                "https://download946.mediafire.com/vltief16cjag_TFgsIqoWrOyDa_3KHJQdEM7KpvjLejt1dzbPv_96BgpeTvuOVCPSC8cZ0Q4h99H5amAhY1yAwuTOP9hI5fx6d1u6BrlaEE9GmWkHV9Hfz2R9IlVa2G9-_WzOVyrCyU94T4o-t0iGv-h4yP7siNTEwZQHCeEmRY/hjom8rdpsyfsfi0/github2.jpg",
+                "https://download1584.mediafire.com/m6y88c99zvkg2-t3uQh8X-KT0H5s7V7CTXGzQItZ6OfLdImXPgYMDAyi8A-BdxrdzoAIJk5Ho63odkzL6EABxTqb3xS8KG_d8ZHEuFrgiCl7gF1AlrwJl3QVuhIsakw4rGwHc_TT4i-oECsYgX-cN0TR65C3MNkUVLMBPB4Su0Q/m4nw6gkvht6mt8y/github3.jpg",
+                "https://download1526.mediafire.com/t4jrze9vpvkgK_SgW3dljK4YBoLnVLqLQnYTM7uQhhC7vPz1Z2guKfiGbF5WW5Ovd7TZJNEvKkE7cFQaRkG2Kuhr6WXeCk2GZ0me8nJjclitHoi2UdP0X7OTaMbuShk2AP-4afH2x3l4LLUwiOwlnTZbDqdRQE4B-Ume-3IVhMg/7axyvfljwn1hox5/github4.jpg",
+            ],
+            "versions": [
+                {
+                    "version": "1.217.0",
+                    "date": "2025-07-16T09:00:00-08:00",
+                    "size": 161100000,
+                    "downloadURL": "https://download1336.mediafire.com/6qo178xukatgjXUsPlmDikumnhCup63di-_dY6JsuUzi_xDN23-hgKNcoBHZs7YKqL4c5gfTiiW9aRxPyNIlWBk824fEpGVqIXzL4dpeq2qX78i-B3qRPvd3pqPL13HTlOAb6ZHHONhlR8lQiLHkEhVDVT2LX3CMPSsTae1SKM0/bgrhqmgnx4civ6f/com.github.stormbreaker.prod_1.213.0_und3fined.ipa",
+                    "localizedDescription": "Bug fixes: Display Issue and Pull Request comment time stamps using keyboard, Announce the date field for the accessibility users when they edit a project item, Announce the selection state in the reaction picker for the accessibility users.",
+                    "minOSVersion": "16.0"
+                },
+            ],
+            }
+    ]
+}

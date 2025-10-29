@@ -1,0 +1,39 @@
+{
+    "name": "Jocore's AltStore Repo",
+    "subtitle": "A source of Popular Hacks and Games",
+    "description": "No idea what to write here...",
+    "iconURL": "https://github.com/JustJocore/AltRepo/blob/main/logo.jpeg",
+    "website": "https://github.com/JustJocore/AltRepo",
+    "tintColor": "#F54F32",
+    "featuredApps": [
+      "com.supercell.laser"
+    ],
+    "apps": [
+      {
+          "name": "BrawlStars iPA",
+          "bundleIdentifier": "com.supercell.laser",
+          "developerName": "Supercell",
+          "subtitle": "Brawlstars without the AppLock",
+          "localizedDescription": "",
+          "tintColor": "#F54F32",
+          "category": "games",
+          "iconURL": "https://github.com/JustJocore/AltRepo/blob/main/bslogo.png",
+          "marketplaceID": "123",
+          "versions": [
+          {
+            "version": "1.0",
+            "buildVersion": "60",
+            "date": "2024-09-23",
+            "localizedDescription": "",
+            "downloadURL": "https://download2267.mediafire.com/4lk72osvgmsgo_o_-kEfN1KYVA-aC6-RP9RbrGPHfIG92ngy5omlsfqgkkzII_EM0PkiJ_SlRK_urxec-4mny99lo7Tcmj9-JwCtYd-uKWlxXFNDDld2N7fIa73EdUIkq04oexaMkZ_9xf9Xvdb4D22-xh07rfg4tsB3FdVVPVsi/dtev6981ol4j7du/Brawl+Stars57.325NoJb.ipa",
+            "size": 79821,
+            "minOSVersion": "15.0",
+            "maxOSVersion": "18.3"
+          }
+        ],
+          "appPermissions": {}
+      }
+  ],
+  
+  "news": []
+  }

@@ -1,0 +1,242 @@
+{
+    "name": "IPAStore",
+    "identifier": "net.trentdev.apps",
+    "sourceURL": "https://altstore.trentdev.net/",
+    "apps": [
+        {
+            "name": "UTM",
+            "subtitle": "IPAStore - Emulator",
+            "bundleIdentifier": "com.ipastore.utm",
+            "developerName": "UTM Team",
+            "version": "2.0.11",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/utmapp/UTM/releases/download/v2.0.11/UTM.ipa",
+            "localizedDescription": "UTM is a virtual machine designed for iDevices. It allows the user to run Windows, Android, Linux and other operating systems on their iDevice.",
+            "iconURL": "https://lh4.googleusercontent.com/6Brg6iN9P_2z7Qv2no_RLfHwhpziRu_sY4VmF0Q--C9f-1G-zhUfE-NtfpOjmtUYe-d3LbZFcNr0uwIRBfJP4PFR84N62iFvxSZW7qrCO8Zcu_5GQbueS9h5HmCxdo4hDVpDtXulzQ=w73-h73",
+            "tintColor": "0033ff",
+            "size": 15584000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/785954792216330310/image0.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/785954792500363324/image1.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS",
+            "subtitle": "IPAStore - Emulator",
+            "bundleIdentifier": "com.ipastore.dolphin",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
+        },
+        {
+            "name": "DolphiniOS Legacy",
+            "subtitle": "IPAStore - Emulator",
+            "bundleIdentifier": "com.ipastore.dolphinl",
+            "developerName": "DolphiniOS Team",
+            "version": "3.1.1-legacy",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Uni-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS emulates the GameCube and the Wii",
+            "iconURL": "https://lh3.googleusercontent.com/MghIpD4GHaDioEMNGCcWeR6EW_Iul5sP2ARTzjfQHRnndZmZoV_w0a2qO8xoREV4QqPW2lp8SUOrgjz3twbU6YAnT4npE_eJ_4FWJEI34454xbB2-lDqULEWZdmJQ0rvbAGkCKo3eg=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781868634745733130/sileo.png"
+            ]
+        },
+        {
+            "name": "Odyssey",
+            "subtitle": "IPAStore - Jailbreak",
+            "bundleIdentifier": "com.ipastore.odyssey",
+            "developerName": "Odyssey Team",
+            "version": "1.2.2",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
+            "localizedDescription": "Odyssey Jailbreak IPA",
+            "iconURL": "https://lh6.googleusercontent.com/mwRGvuJxqq4w_yanrpoh-EDnMOdQ0EJoCIow22z--SpuzpufnEQ0OWZVGlb6aS11x1Z5Sz88Id_jI7qd582hMYMtiXp2tsfnTDNq_q5LmAPMbQC-ovAGrWGKzj48Ql30xpCZ_Ydkdg=w73-h73",
+            "tintColor": "4f4f4f",
+            "size": 79062630,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/785973977406636042/phone.png"
+            ]
+        },
+        {
+            "name": "Unc0ver",
+            "subtitle": "IPAStore - Jailbreak",
+            "bundleIdentifier": "com.ipastore.uncover",
+            "developerName": "Unc0ver Team",
+            "version": "5.3.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
+            "localizedDescription": "Unc0ver Jailbreak IPA",
+            "iconURL": "https://lh3.googleusercontent.com/xTawQPWsJH3S7GdCAoVMiw1TUfoBSDaTsyPZjy0S1h5FYRv2IT0GoEpoHUp6my-tjzJRhsRg-3q0ZvlYLZavIRJ0UpwQPIMFaMLZDHD-cQfeCUf6tIvq-NCJh2pmp4TF9vC8nDXXFA=w73-h73",
+            "tintColor": "4f4f4f",
+            "size": 98820000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/785975423032098856/phone.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/785976164606672906/phone.png"
+            ]
+        },
+        {
+            "name": "Facebook++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.facebookplus",
+            "developerName": "Unknown",
+            "version": "3.1.1",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/facebook.ipa",
+            "localizedDescription": "Facebook++ is a tweaked modification to the iOS social-media app Facebook.",
+            "iconURL": "https://lh5.googleusercontent.com/rRNVTzSAmnTGjsiutKKY1QhKpyqxs1G1QDCrhz-DzADYruV_nWBX_oreoBsTQwV79vFzkaFZOA70m5_CZVQ_JfLPcndmeYBtmMA_2Urhdn6bSrKvkD9yXLnwkUTCPWlFXUIzym9CmQ=w73-h73",
+            "tintColor": "3dc5ff",
+            "size": 50000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/785976983800381468/phone.png"
+            ]
+        },
+        {
+            "name": "Instagram Rhino",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.instagram",
+            "developerName": "Unknown",
+            "version": "158.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/igrhino.ipa",
+            "localizedDescription": "Instagram Rhino adds customisation tweaks for Instagram",
+            "iconURL": "https://cdn.discordapp.com/attachments/523529891619274773/785775437183451167/instagram.png",
+            "tintColor": "ffb700",
+            "size": 50000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/785986219351474246/instag1.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/785986186363404288/instag2.png"
+            ]
+        },
+        {
+            "name": "Reddit++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.reddit",
+            "developerName": "Michael (ClassicEmoji)",
+            "version": "2020.36.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/reddit_plus.ipa",
+            "localizedDescription": "Reddit++ is a tweaked modification to the iOS forum app Reddit.",
+            "iconURL": "https://lh6.googleusercontent.com/XMGWBxt7ll1KKpsT9l7JyxZi9lrGAfE-47m17-o7r4xmfuin48Hsd7I3soVyO1M6EbZ9qLOnowjXYbjlLAuYKsWewwL96wJD39b1eIvO7g0D-ndd8xh_rKigXvVO6nsU3Ec=w73-h73",
+            "tintColor": "ed5f00",
+            "size": 50000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/781794489572130857/image0.png"
+            ]
+        },
+        {
+            "name": "Spotify++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.spotify",
+            "developerName": "Unknown",
+            "version": "8.5.58",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/spotify++.ipa",
+            "localizedDescription": "Spotify++ is a tweaked modification to the iOS music app Spotify.",
+            "iconURL": "https://lh4.googleusercontent.com/De_W9O9HX4nbnuzOoUA9TAkGsr5fNjEhujnvgQtMyKtL4Irjpjza6YY3iYfMGj2L_YOU_Qm0YvwECGmheTsQbswy1a3VqIyVneLOMCQzMN8VO10cJHdhNvQhgxObDGbMO9Cp74n8TA=w73-h73",
+            "tintColor": "00c400",
+            "size": 100000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/786136958220894228/spotify_1.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786136956772810752/spotify_2.png"
+            ]
+        },
+        {
+            "name": "TikTok++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.tiktok",
+            "developerName": "Michael (ClassicEmoji)",
+            "version": "2020.36.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/tiktok_plus.ipa",
+            "localizedDescription": "TikTok++ is a tweaked modification to the iOS social-media and video sharing app TikTok.",
+            "iconURL": "https://cdn.discordapp.com/attachments/385519229606035468/786141872770121748/icon_twitch2.png",
+            "tintColor": "783142",
+            "size": 100000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627420516362/image0.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627672961044/image1.png"
+            ]
+        },
+        {
+            "name": "Twitch++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.twitch",
+            "developerName": "Unknown",
+            "version": "2020.36.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/twitch_plus.ipa",
+            "localizedDescription": "Twitch++ is a tweaked modification to the iOS streaming app Twitch.",
+            "iconURL": "https://cdn.discordapp.com/attachments/385519229606035468/786141870963163156/icon_twitch.png",
+            "tintColor": "ed5f00",
+            "size": 50000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/786140827620605962/twic2.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786140828602990652/twitc1.png"
+            ]
+        },
+        {
+            "name": "Youtube++",
+            "subtitle": "IPAStore - Tweaked",
+            "bundleIdentifier": "com.ipastore.youtube",
+            "developerName": "Unknown",
+            "version": "2020.36.0",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "http://51.195.148.139/youtube_plus.ipa",
+            "localizedDescription": "TikTok++ is a tweaked modification to the iOS social-media and video sharing app TikTok.",
+            "iconURL": "https://cdn.discordapp.com/attachments/385519229606035468/786141872770121748/icon_twitch2.png",
+            "tintColor": "783142",
+            "size": 100000000,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627420516362/image0.png",
+                "https://cdn.discordapp.com/attachments/385519229606035468/786139627672961044/image1.png"
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "Welcome to IPAStore Source [BETA]!",
+            "identifier": "ipastore-welcome",
+            "caption": "Welcome to our new AltStore IPA Source.",
+            "tintColor": "ff0051",
+            "url": "https://trentdev.net/ipastore/",
+            "imageURL": "https://cdn.discordapp.com/attachments/523529891619274773/785952008153595994/ipastore.png",
+            "date": "2020-12-08",
+            "notify": false
+        },
+        {
+            "title": "The IPAStore Source is now in BETA!",
+            "identifier": "ipastore-notif_1",
+            "caption": "Our source is now officially in BETA!.",
+            "tintColor": "f01313",
+            "url": "https://trentdev.net/ipastore/",
+            "imageURL": "https://cdn.discordapp.com/attachments/385519229606035468/786143451011350528/ipastore.png",
+            "date": "2020-12-09",
+            "notify": true
+        }
+    ],
+    "userInfo": {
+    }
+}

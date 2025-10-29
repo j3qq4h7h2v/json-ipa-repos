@@ -1,0 +1,27 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "level3tjg",
+      "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.07.1-1.1.7/RedditFilter_2025.07.1-1.1.7.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+      "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
+      "name": "RedditFilter",
+      "screenshotURLs": [
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
+      ],
+      "size": 139065345,
+      "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+      "tintColor": "ff4600",
+      "version": "2025.07.1-1.1.7",
+      "versionDate": "2025-02-27T14:16:51Z",
+      "versionDescription": "# RedditFilter v2025.07.1-1.1.7\r\n\r\n## Changes\r\n\r\n- Fixed feed filter settings not appearing in app settings\r\n- Fixed missing feed filter settings icon\r\n- Fixed some recommendations still showing up in the home feed"
+    }
+  ],
+  "identifier": "com.f0e.altstorerepo",
+  "name": "f0e's AltStore Repo",
+  "news": [],
+  "userInfo": {}
+}

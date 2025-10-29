@@ -1,0 +1,16 @@
+{
+  "name": "dk865's Repo",
+  "identifier": "com.dk865.repo",
+  "apps": [
+    {
+      "name": "pcfire",
+      "bundleIdentifier": "com.dk865.pcfire",
+      "version": "1.0",
+      "icon": "https://dk865.github.io/altstore/ipas/pcfire/icon.png",
+      "downloadURL": "https://dk865.github.io/altstore/ipas/pcfire/pcfire.ipa",
+      "description": "The popular Planet Clicker made by dk865",
+      "category": "Games",
+      "minOS": "17.0"
+    }
+  ]
+}

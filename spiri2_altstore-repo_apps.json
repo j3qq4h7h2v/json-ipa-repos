@@ -1,0 +1,102 @@
+{
+  "name": "spiri2",
+  "subtitle": "Apps by spiri2",
+  "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/icon_logo.png",
+  "tintColor": "#0EA5E9",
+  "apps": [
+    {
+      "name": "s2vids",
+      "bundleIdentifier": "com.spiri2.s2vids",
+      "developerName": "spiri2",
+      "localizedDescription": "s2vids is a subscription-based streaming service offering a vast library of movies and Tv Shows, all accessible on internet-connected devices like smart TVs, phones, and tablets. Watch as much content as you want, request virtually any movie, Tv Show including Anime, and PPV titles, and can download titles for offline viewing. \n\nSignup Code: YS48WTY7",
+      "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-1024x1024.PNG",
+      "category": "entertainment",
+      "screenshots": [
+        "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-screenshot1.png"
+      ],
+      "permissions": [
+        {
+          "type": "entitlement",
+          "name": "Associated Domains",
+          "key": "com.apple.developer.associated-domains"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.7",
+          "buildVersion": "7",
+          "date": "2025-10-28",
+          "localizedDescription": "• Playback now uses Apples built in media player.\n• UI Improvements",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.7/s2vids.ipa",
+          "size": 13000000,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "1.0.6",
+          "buildVersion": "6",
+          "date": "2025-10-26",
+          "localizedDescription": "Added: PiP (Picture in Picture)\nAdded: Additional resources in settings - system panel\nBug Fixes\nUI Improvements",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.6/s2vids.ipa",
+          "size": 13000000,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "1.0.5",
+          "buildVersion": "6",
+          "date": "2025-10-22",
+          "localizedDescription": "Bug Fixes",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.5/s2vids.ipa",
+          "size": 13000000,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "1.0.4",
+          "buildVersion": "5",
+          "date": "2025-10-21",
+          "localizedDescription": "Version 1.0.4 — Added improved video streaming performance, fixed buffering issues, and minor UI polish.",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.4/s2vids.ipa",
+          "size": 13000000,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.3",
+          "buildVersion": "4",
+          "date": "2025-10-20",
+          "localizedDescription": "Version 1.0.3 — Stability improvements and UI tweaks.",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.3/s2vids.ipa",
+          "size": 12345678,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "🎬 s2vids v1.0.7 Released",
+      "identifier": "s2vids-v1.0.7",
+      "caption": "Playback now uses Apple’s built in media player + UI Improvements.",
+      "tintColor": "#0EA5E9",
+      "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
+      "url": "https://repo.s2vids.org/apps.json",
+      "date": "2025-10-28"
+    },
+    {
+      "title": "🎬 s2vids v1.0.6 Released",
+      "identifier": "s2vids-v1.0.6",
+      "caption": "PiP, new resources in System panel, bug fixes & UI polish.",
+      "tintColor": "#0EA5E9",
+      "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
+      "url": "https://repo.s2vids.org/apps.json",
+      "date": "2025-10-26"
+    },
+    {
+      "title": "🎬 s2vids v1.0.5 Released",
+      "identifier": "s2vids-v1.0.5",
+      "caption": "Misc source now parses correctly + decoding fix.",
+      "tintColor": "#0EA5E9",
+      "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
+      "url": "https://repo.s2vids.org/apps.json",
+      "date": "2025-10-21"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "IPAStore",
+    "identifier": "net.trentdev.apps",
+    "sourceURL": "https://altstore.trentdev.net/",
+    "apps": [
+        {
+            "name": "LootValley",
+            "subtitle": "LootValley",
+            "bundleIdentifier": "com.lootvalley.loot",
+            "developerName": "AppValley",
+            "version": "1.2",
+            "versionDate": "2020-11-21T11:55:19+00:00",
+            "versionDescription": "",
+            "downloadURL": "https://cdn.app-valley.vip/companion/1539.com.lootvalley.loot.ipa?1605959719",
+            "localizedDescription": "FREE money. By simply downloading apps.",
+            "iconURL": "https://img.app-valley.vip/icon/1555.png",
+            "tintColor": "10b6ff",
+            "size": 50187194,
+            "screenshotURLs": [
+                "https://img.app-valley.vip/screenshot/1555.png"
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "Welcome to IPAStore Source (beta)!",
+            "identifier": "ipastore-welcome",
+            "caption": "Welcome to our new AltStore IPA Source.",
+            "tintColor": "ff0051",
+            "url": "https://trentdev.net/ipastore/",
+            "imageURL": "https://i.imgur.com/fgXp6Lu.png",
+            "date": "2020-12-08",
+            "notify": false
+        }
+    ],
+    "userInfo": {
+    }
+}

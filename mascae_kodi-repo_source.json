@@ -1,0 +1,46 @@
+{
+  "name": "Mascae's AltStore PAL Source",
+  "identifier": "com.mascae.altstorepal.source",
+  "website": "https://github.com/mascae/kodi-repo",
+  "iconURL": "https://mascae.github.io/kodi-repo/icons/source_icon.png",
+  "apps": [
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.tu_bundle_id_de_livecontainer.app", 
+      "developerName": "Mascae",
+      "subtitle": "Una herramienta avanzada para gestionar contenedores en iOS.",
+      "category": "Utilities",
+      "tintColor": "#6A5ACD",
+      "iconURL": "https://mascae.github.io/kodi-repo/icons/livecontainer_app_icon.png",
+      "appPermissions": {
+        "privacy": [
+          {
+            "name": "Local Network",
+            "description": "Permite a LiveContainer comunicarse con dispositivos en tu red local para la gestión de contenedores."
+          },
+          {
+            "name": "Files and Storage",
+            "description": "Acceso a archivos para la importación/exportación de configuraciones o datos de contenedores."
+          },
+          {
+            "name": "Internet",
+            "description": "Conexión a internet para actualizaciones de contenido o descarga de recursos de contenedores."
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2025-07-24",
+          "localizedDescription": "Lanzamiento inicial de LiveContainer. Esta versión permite la gestión de contenedores personalizados, importación/exportación de configuraciones y soporte experimental para nuevas arquitecturas. Se ha mejorado la estabilidad general y se han corregido errores menores. ¡Agradecemos cualquier comentario para futuras actualizaciones!",
+          "downloadURL": "https://mascae.github.io/kodi-repo/apps/LiveContainer_1.0.0.ipa",
+          "size": 2861000,
+          "screenshotURLs": [
+            "https://mascae.github.io/kodi-repo/screenshots/livecontainer_ss1.png",
+            "https://mascae.github.io/kodi-repo/screenshots/livecontainer_ss2.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

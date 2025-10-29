@@ -1,0 +1,353 @@
+{
+  "name": "AltHaven",
+  "identifier": "com.ub96.Althaven",
+  "sourceURL": "https://raw.githubusercontent.com/ub96/PiratedShit2/main/altstore.json",
+  "apps": [
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "developerName": "Riley Testut",
+      "versions": [
+        {
+          "version": "1.6",
+          "date": "2023-01-30T10:00:00-06:00",
+          "localizedDescription": "NEW\n\nLock Screen Widget (iOS 16+)\n• Counts down days until AltStore expires\n• Available in 2 different styles: \"icon\" and \"text\"\n\nError Log\n• View past errors in more detail\n• Tap an error to copy the error message or error code\n• Search for error code directly in AltStore FAQ\n• Access via new \"Techy Things\" section in settings\n\niOS Version Compatibility\n• Checks iOS compatibility for updates and installs \n• Asks you to install latest compatible version if not supported\n• View unsupported updates from My Apps tab\n\nRevamped Error Handling\n• Completely revamped error handling to make debugging issues as easy as possible\n• Revised error messages to be more descriptive and provide more suggestions\n• Includes more information with errors\n\nMisc.\n• Pull-to-refresh to check for updates\n• Supports new “versions” key in source JSON\n• Supports updating apps from app detail page\n\nFIXED\n• Fixed \"more\" button appearing by mistake on app detail pages\n• Fixed widgets potentially not updating after refreshing apps\n• Fixed incorrect app name and iOS version in \"Unsupported iOS version\" error message\n• Fixed refreshing tweaked apps with removed app extensions\n• Fixed incorrect error toast view color when sign-in fails",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6.ipa",
+          "size": 5614798
+        }
+      ],
+      "version": "1.6",
+      "versionDate": "2023-01-30T10:00:00-06:00",
+      "versionDescription": "NEW\n\nLock Screen Widget (iOS 16+)\n• Counts down days until AltStore expires\n• Available in 2 different styles: \"icon\" and \"text\"\n\nError Log\n• View past errors in more detail\n• Tap an error to copy the error message or error code\n• Search for error code directly in AltStore FAQ\n• Access via new \"Techy Things\" section in settings\n\niOS Version Compatibility\n• Checks iOS compatibility for updates and installs \n• Asks user to install latest compatible version if not supported\n• View unsupported updates from My Apps tab\n\nRevamped Error Handling\n• Completely revamped error handling to make debugging issues as easy as possible\n• Revised error messages to be more descriptive and provide more suggestions\n• Includes more information with errors\n\nMisc.\n• Pull-to-refresh to check for updates\n• Supports new “versions” key in source JSON\n• Supports updating apps from app detail page\n\nFIXED\n• Fixed \"more\" button appearing by mistake on app detail pages\n• Fixed widgets potentially not updating after refreshing apps\n• Fixed incorrect app name and iOS version in \"Unsupported iOS version\" error message\n• Fixed refreshing tweaked apps with removed app extensions\n• Fixed incorrect error toast view color when sign-in fails",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 5614798,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "versions": [
+        {
+          "version": "1.6.1b",
+          "date": "2023-02-09T11:00:00-06:00",
+          "localizedDescription": "• Sideload more than 3 apps via MacDirtyCow exploit*\n• “Clear Cache” button removes non-essential data to free up disk space\n• Fixes crash when viewing Sources on iOS 12\n\n*Requires iOS 14.0 - 15.7.1 or 16.0 - 16.1.2. See Patreon post for instructions.",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_1_b.ipa",
+          "size": 5627282,
+          "minOSVersion": "12.2"
+        },
+        {
+          "version": "1.6rc3",
+          "date": "2023-01-23T11:30:00-06:00",
+          "localizedDescription": "**This update is solely to test that updating works as expected from the current beta, and otherwise is identical to 1.6 RC 2**\n\nPREVIOUS UPDATES\n• Fixed outdated AltStore updates appearing in My Apps tab\n• Moved Error Log from \"Debug\" settings to \"Techy Things\"\n• Improved misc. error messages\n• Fixed repeated \"AltServer could not be found\" notifications\n• Fixed missing metadata for errors received from AltServer\n• Fixed decoding nested error metadata values",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_rc3.ipa",
+          "size": 5614292,
+          "minOSVersion": "12.2"
+        },
+        {
+          "version": "1.6rc2",
+          "date": "2023-01-18T11:30:00-06:00",
+          "localizedDescription": "• Fixed outdated AltStore updates appearing in My Apps tab\n\nPREVIOUS RC\n• Moved Error Log from \"Debug\" settings to \"Techy Things\"\n• Improved misc. error messages\n• Fixed repeated \"AltServer could not be found\" notifications\n• Fixed missing metadata for errors received from AltServer\n• Fixed decoding nested error metadata values",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_rc2.ipa",
+          "size": 5614213,
+          "minOSVersion": "12.2"
+        },
+        {
+          "version": "1.6rc",
+          "date": "2022-12-21T11:30:00-06:00",
+          "localizedDescription": "• Moved Error Log from \"Debug\" settings to \"Techy Things\"\n• Improved misc. error messages\n• Fixed repeated \"AltServer could not be found\" notifications\n• Fixed missing metadata for errors received from AltServer\n• Fixed decoding nested error metadata values",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_rc.ipa",
+          "size": 5606669,
+          "minOSVersion": "12.2"
+        },
+        {
+          "version": "1.6b4",
+          "date": "2022-11-30T12:00:00-06:00",
+          "localizedDescription": "• Checks iOS compatibility for updates and installs \n• Asks user to install latest compatible version if not supported\n• View unsupported updates from My Apps tab\n• Pull-to-refresh to check for updates",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_b4.ipa",
+          "size": 5608964
+        }
+      ],
+      "version": "1.6.1b",
+      "versionDate": "2023-02-09T11:00:00-06:00",
+      "versionDescription": "• Sideload more than 3 apps via MacDirtyCow exploit*\n• “Clear Cache” button removes non-essential data to free up disk space\n• Fixes crash when viewing Sources on iOS 12\n\n*Requires iOS 14.0 - 15.7.1 or 16.0 - 16.1.2. See Patreon post for instructions.",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_1_b.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 5627282,
+      "beta": true,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic games in your pocket.",
+      "version": "1.3.2",
+      "versionDate": "2022-10-18T12:00:00-05:00",
+      "versionDescription": "• Fixes external keyboard support\n• Fixes invisible system name when remapping game controllers on iOS 16\n• Fixes previous game controller remaining selected after changing controller",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_3_2.ipa",
+      "localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64.\n\nFEATURES\n\nSupported Game Systems\n• Nintendo Entertainment System\n• Super Nintendo Entertainment System\n• Nintendo 64\n• Game Boy (Color)\n• Game Boy Advance\n• Nintendo DS\n• And plenty more to come!\n\nController Support\n• Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n• Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n• Completely customize button mappings on a per-system, per-controller basis.\n• Map buttons to special “Quick Save”, “Quick Load,” and “Fast Forward” actions.\n\nSave States\n• Save and load save states for any game from the pause menu.\n• Lock save states to prevent them from being accidentally overwritten.\n• Automatically makes backup save states to ensure you never lose your progress.\n• Support for “Quick Saves,” save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nCheats\n• Supports various types of cheat codes for each supported system:\n• NES: Game Genie\n• SNES: Game Genie, Pro Action Replay\n• N64: GameShark\n• GBC: Game Genie, GameShark\n• GBA: Action Replay, Code Breaker, GameShark\n• DS: Action Replay\n\nDelta Sync\n• Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n• View version histories of everything you sync and optionally restore them to earlier versions.\n• Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n• Beautiful built-in controller skins for all systems.\n• Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n• Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n• Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n• Speed through slower parts of games by running the game much faster than normal.\n• Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n• Use 3D or Haptic Touch to “peek” at games, save states, and cheat codes.\n• App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n• Automatically displays appropriate box art for imported games.\n• Change a game’s artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n• Gyroscope support (WarioWare: Twisted! only)\n• Microphone support (DS only)\n• Support for delta:// URL scheme to jump directly into a specific game.\n\n**Delta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 19742740,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG",
+        "https://user-images.githubusercontent.com/705880/65601125-5b182000-df56-11e9-9e7e-261480e893c0.PNG"
+      ]
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic games in your pocket.",
+      "version": "1.4b5",
+      "versionDate": "2023-02-02T12:00:00-06:00",
+      "versionDescription": "“Respect Silent Mode” setting\n• When enabled, game audio will only play when your device isn’t muted\n• Automatically mutes game audio if another app is playing audio\n\nCheatBase (thanks Noah Keck @horn978)\n• Browse and add all known cheats for games\n• Limited to DS games for now, but will be expanded in the future",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_4_b5.ipa",
+      "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 46505452,
+      "beta": true,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ]
+    },
+    {
+      "name": "Clip",
+      "bundleIdentifier": "com.rileytestut.Clip",
+      "subtitle": "Manage your clipboard history with ease.",
+      "developerName": "Riley Testut",
+      "version": "1.0",
+      "versionDate": "2020-06-17T12:30:00-07:00",
+      "versionDescription": "Initial version 🎉",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
+      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "tintColor": "EC008C",
+      "size": 445056,
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
+        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
+      ]
+    },
+    {
+      "name": "Clip",
+      "bundleIdentifier": "com.rileytestut.Clip.Beta",
+      "subtitle": "Manage your clipboard history with ease.",
+      "developerName": "Riley Testut",
+      "version": "1.1b1",
+      "versionDate": "2020-06-17T12:30:00-07:00",
+      "versionDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.\n\nTo enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_1_b1.ipa",
+      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "tintColor": "EC008C",
+      "size": 462771,
+      "beta": true,
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
+        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png",
+        "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
+        "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
+      ]
+    },
+    {
+      "name": "Filza Escaped for ios 15-16",
+      "bundleIdentifier": "com.ub96.scarlet",
+      "subtitle": "Browse iOS File System",
+      "developerName": "TIGISoftware",
+      "version": "2",
+      "versionDate": "2023-02-11T12:30:00-07:00",
+      "versionDescription": "This is the first version!",
+      "downloadURL": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/54671/data",
+      "localizedDescription": "Root file MANAGER FOR IOS 15 UP TO IOS 16.1.2",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/f1/26/6f/f1266f99-4dbd-ac41-3bb0-236cc93e335e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
+      "tintColor": "53D1DF",
+      "size": 462771,
+      "beta": true,
+      "permissions": [
+        {
+          "type": "Root Access",
+          "usageDescription": "Allows filza to display files"
+        }
+      ],
+      "screenshotURLs": [
+        "http://moreinfo.thebigboss.org/moreinfo/filzafilemanager1.jpg",
+        "http://moreinfo.thebigboss.org/moreinfo/filzafilemanager6.jpg"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Delta Gaining DS Support",
+      "identifier": "delta-ds-support",
+      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
+      "date": "2019-09-25",
+      "notify": false
+    },
+    {
+      "title": "Delta Now Available",
+      "identifier": "delta-now-available",
+      "caption": "Finally, relive your favorite NES, SNES, GB(C), GBA, and N64 games.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
+      "appID": "com.rileytestut.Delta",
+      "date": "2019-09-28",
+      "notify": true
+    },
+    {
+      "title": "Sideloading is Here!",
+      "identifier": "sideloading-is-here",
+      "caption": "Update to AltStore 1.3 to install any app directly from Files.",
+      "tintColor": "018084",
+      "imageURL": "https://user-images.githubusercontent.com/705880/79022069-02932380-7b32-11ea-8bad-49907cb97ece.png",
+      "date": "2020-04-10T13:00:00-07:00",
+      "notify": true
+    },
+    {
+      "title": "iOS 13.4 Fixes App Crashes",
+      "identifier": "ios-13-4-now-available",
+      "caption": "Update to iOS 13.4 to fix some sideloaded apps crashing on launch.",
+      "tintColor": "34C759",
+      "date": "2020-04-10T13:30:00-07:00",
+      "notify": false
+    },
+    {
+      "title": "Clip Now Available!",
+      "identifier": "clip-now-available",
+      "caption": "Finally, a clipboard manager that can run in the background — no jailbreak required.",
+      "tintColor": "EC008C",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65606598-04afdf00-df60-11e9-8f93-af6345d39557.png",
+      "appID": "com.rileytestut.Clip",
+      "date": "2020-06-17",
+      "notify": true
+    },
+    {
+      "title": "Delta, Meet Nintendo DS",
+      "identifier": "delta-meet-ds",
+      "caption": "Update to Delta 1.3 to relive all your favorite Nintendo DS games.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/115617602-6ce2b600-a2a6-11eb-984e-2197a30c71e2.png",
+      "appID": "com.rileytestut.Delta",
+      "date": "2021-04-21",
+      "notify": true
+    },
+    {
+      "title": "#StandWithUkraine",
+      "identifier": "support-ukraine",
+      "caption": "Find out how you can help support those impacted by the Russian invasion.",
+      "tintColor": "003e80",
+      "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
+      "url": "https://linktr.ee/razomforukraine",
+      "date": "2022-03-01",
+      "notify": false
+    },
+    {
+      "title": "The Biggest AltServer Update Yet!",
+      "identifier": "altserver-1-5",
+      "caption": "Update to AltServer 1.5 to use AltJIT and other exciting new features.",
+      "tintColor": "018084",
+      "imageURL": "https://user-images.githubusercontent.com/705880/166509576-744be578-6868-4b7d-b4fd-b9418c084327.png",
+      "url": "https://faq.altstore.io/release-notes/altserver",
+      "date": "2022-05-03",
+      "notify": true
+    },
+    {
+      "title": "More Apps in AltStore!",
+      "identifier": "trusted-sources",
+      "caption": "Update to AltStore 1.5 to easily download some of our favorite apps.",
+      "tintColor": "00CAB3",
+      "imageURL": "https://user-images.githubusercontent.com/705880/167026375-ddcb004f-7160-405c-b3e3-87a6795d2f43.png",
+      "url": "https://faq.altstore.io/release-notes/altstore",
+      "date": "2022-05-05",
+      "notify": true
+    },
+    {
+      "title": "New to AltStore?",
+      "identifier": "updated-faq",
+      "caption": "Check out our updated guide to learn how to sideload apps!",
+      "tintColor": "018084",
+      "url": "https://faq.altstore.io",
+      "date": "2022-07-28",
+      "notify": false
+    },
+    {
+      "title": "More Trusted Sources!",
+      "identifier": "welcome-provenance-pojavlauncher",
+      "caption": "Please welcome Provenance and PojavLauncher to AltStore 🎉",
+      "tintColor": "00A2FF",
+      "date": "2022-12-12",
+      "notify": true,
+      "imageURL": "https://user-images.githubusercontent.com/705880/207133455-1e851fd0-89ae-48f0-906f-8f86f4e394db.png"
+    }
+  ],
+  "userInfo": {
+    "patreonAccessToken": "uqoDoTxH8dY1ImE8tK76wxrzKk67gjyjBAcK8sD3RLU"
+  }
+}

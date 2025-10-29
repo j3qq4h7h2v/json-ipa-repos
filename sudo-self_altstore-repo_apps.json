@@ -1,0 +1,226 @@
+{
+  "name": "sudo-self",
+  "subtitle": "sudo-self/altstore-repo",
+  "description": "Welcome to the official Sudo-Self AltStore Repo",
+  "iconURL": "https://i.imgur.com/gDRLJ6j.png",
+  "website": "https://dub.sh/j438tAq",
+  "patreonURL": "https://www.patreon.com/sudoself",
+  "tintColor": "#5505ad",
+  "featuredApps": [
+    "jessejesse.com.TombRaiderII",
+    "jessejesse.xyz.Iconic",
+    "jessejesse.com.Torrent-Time",
+    "jessejesse.xyz.MarioAllstarz",
+    "com.rovio.angrybirdsstarwars"
+  ],
+  "headerURL": "https://i.imgur.com/NFZk4ps.png",
+  "apps": [
+    {
+      "name": "SuperMario64",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
+      "developerName": "sudo-self",
+      "subtitle": "The N64 classic, now on iOS",
+      "localizedDescription": "A faithful 60 FPS port of Super Mario 64, rebuilt for iOS devices. Requires iOS 13.2+ and an arm64 device.",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/sm64.png",
+      "tintColor": "#CC0000",
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.2.1",
+          "buildVersion": "1",
+          "date": "2023-04-10T12:00:00Z",
+          "size": 24000000,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/SuperMario64.ipa",
+          "minOSVersion": "13.2",
+          "localizedDescription": "v1.2.1 — 60 FPS version built with iOS SDK 15.2. Requires iOS 13.2 or later."
+        }
+      ]
+    },
+    {
+      "name": "Iconic",
+      "bundleIdentifier": "jessejesse.xyz.Iconic",
+      "developerName": "sudo-self",
+      "subtitle": "text-to-image with Stability AI",
+      "localizedDescription": "Experience the iconic app with Stability AI integration.",
+      "iconURL": "https://iconic.jessejesse.xyz/apple-touch-icon.png",
+      "tintColor": "#4B0082",
+      "screenshots": [
+        "https://iconic.jessejesse.xyz/icon-512x512.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-05-11T00:00:00Z",
+          "size": 4100000,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/Iconic.ipa",
+          "minOSVersion": "18.4.1",
+          "localizedDescription": "v1.0.0 — Initial release for AltStore."
+        }
+      ]
+    },
+    {
+      "name": "MarioAllstarz",
+      "bundleIdentifier": "jessejesse.xyz.MarioAllstarz",
+      "developerName": "sudo-self",
+      "subtitle": "Classic Mario, Reimagined",
+      "localizedDescription": "A custom iOS build of Mariod 1 thru 3 for iPhone and iPad. Optimized for iOS 15.6+.",
+      "iconURL": "https://marioallstars.vercel.app/apple-touch-icon.png",
+      "tintColor": "#FF0000",
+      "screenshots": [
+        "https://firebasestorage.googleapis.com/v0/b/jessejessexyz.appspot.com/o/marioallstars.png?alt=media&token=683069a5-999f-43f2-8113-74dd7ee22b53"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-05-12T00:00:00Z",
+          "size": 26214400,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/MarioAllstarz.ipa",
+          "minOSVersion": "15.6",
+          "localizedDescription": "v1.0.0 — Initial release for AltStore. Supports iOS 15.6+."
+        }
+      ]
+    },
+    {
+      "name": "PunchOut",
+      "bundleIdentifier": "tyson.jessejesse.com.PunchOut-",
+      "developerName": "sudo-self",
+      "subtitle": "Mike Tyson, 1985",
+      "localizedDescription": "A slice of the past",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/punchout.png",
+      "tintColor": "#FF0000",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/punchout.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-05-12T00:00:00Z",
+          "size": 26214400,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/PunchOut.ipa",
+          "minOSVersion": "15.6",
+          "localizedDescription": "v1.0.0 — Initial release for AltStore. Supports iOS 15.6+."
+        }
+      ]
+    },
+    {
+      "name": "TombRaiderII",
+      "bundleIdentifier": "jessejesse.com.TombRaiderII",
+      "developerName": "sudo-self",
+      "subtitle": "Lara Croft Returns",
+      "localizedDescription": "Relive the iconic adventures of Lara Croft in Tomb Raider II. Optimized for modern iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/croft.png",
+      "tintColor": "#B22222",
+      "screenshots": [
+        "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/laura.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-05-12T00:00:00Z",
+          "size": 26214400,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/TombRaiderII.ipa",
+          "minOSVersion": "15.6",
+          "localizedDescription": "Load Times are the same being genuine Playstation"
+        }
+      ]
+    },
+    {
+      "name": "Torrent Time",
+      "bundleIdentifier": "jessejesse.com.Torrent-Time",
+      "developerName": "sudo-self",
+      "subtitle": "create torrent files with ease",
+      "localizedDescription": "no software or heavy lifting",
+      "iconURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/torrent.png",
+      "tintColor": "#B22222",
+      "screenshots": [
+        "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/torrent.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-05-12T00:00:00Z",
+          "size": 26214400,
+          "downloadURL": "https://raw.githubusercontent.com/sudo-self/altstore-repo/main/TorrentTime.ipa",
+          "minOSVersion": "15.6",
+          "localizedDescription": "Create torrents to share files among friends"
+        }
+      ]
+    },
+    {
+      "name": "Angry Birds Star Wars",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwars",
+      "developerName": "Rovio",
+      "subtitle": "Removed from the App Store!",
+      "localizedDescription": "JOIN THE ANGRY BIRDS IN THEIR BIGGEST ADVENTURE YET! ...",
+      "iconURL": "https://img.ipa4fun.com/56/fa/23/557138109-logo.webp",
+      "tintColor": "#082448",
+      "screenshots": [
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-1.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-2.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-3.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-4.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-5.webp"
+      ],
+      "versions": [
+        {
+          "version": "1.5.12",
+          "buildVersion": "1",
+          "date": "2018-05-25T00:00:00Z",
+          "size": 58200000,
+          "downloadURL": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/Angry_Birds_Star_Wars_v.1.5.12.ipa",
+          "minOSVersion": "11.0",
+          "localizedDescription": "• We addressed some minor issues in order to improve the user experience."
+        }
+      ]
+    },
+    {
+      "name": "gitreactrepos",
+      "bundleIdentifier": "com.sudo-self.gitreactrepos",
+      "developerName": "sudo-self",
+      "subtitle": "A custom GitHub Repos & Pages app for iPhone and iPad.",
+      "localizedDescription": "Search GitHub usernames with repo and Pages support, optimized for iOS 15.1+.",
+      "iconURL": "https://github.com/sudo-self/altstore-repo/blob/main/gitrepoicon.png?raw=true",
+      "tintColor": "#61DAFB",
+      "screenshots": [
+        "https://github.com/sudo-self/altstore-repo/blob/main/gitrepos.png?raw=true"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-07-13T00:00:00Z",
+          "size": 1744091,
+          "downloadURL": "https://github.com/sudo-self/altstore-repo/raw/main/gitreactrepos.ipa",
+          "minOSVersion": "15.1",
+          "localizedDescription": "v1.0.0 — Initial release for AltStore. Supports iOS 15.1+."
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Tomb Raider II",
+      "identifier": "jessejesse.com.TombRaiderII",
+      "caption": "Playstation ported to iOS",
+      "tintColor": "#823900",
+      "imageURL": "https://i.imgur.com/JqOjzyV.png",
+      "appID": "jessejesse.com.TombRaiderII",
+      "date": "2025-05-25T18:00:00Z",
+      "notify": false,
+      "url": "https://github.com/sudo-self/altstore-repo/raw/main/TombRaiderII.ipa"
+    }
+  ]
+}
+
+
+
+
+
+

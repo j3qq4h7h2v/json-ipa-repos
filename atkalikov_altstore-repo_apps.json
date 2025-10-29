@@ -1,0 +1,26 @@
+{
+  "name": "Flyinghead",
+  "identifier": "com.flyinghead.source",
+  "apps": [
+    {
+      "beta": false,
+      "name": "Flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "developerName": "Flyinghead",
+      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
+      "version": "v2.3.2",
+      "versionDate": "2024-05-13T22:26:00+02:00",
+      "versionDescription": "Battle cable support and more SystemSP games.",
+      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.3.2/Flycast-2.3.2.ipa",
+      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
+      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "tintColor": "9b54fd",
+      "size": 7340264,
+      "screenshotURLs": [
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+      ]
+    }
+  ]
+}

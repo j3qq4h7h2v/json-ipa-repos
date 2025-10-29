@@ -1,0 +1,23 @@
+{
+  "name": "RepoCow",
+  "identifier": "com.threshold.repocow",
+  "apps": [
+    {
+      "name": "FileSwitcherPro",
+      "bundleIdentifier": "ru.straighttamago.FileSwitcherPro",
+      "developerName": "straight_tamago",
+      "subtitle": "Jailbreak-like iDevice customization",
+      "version": "1.2",
+      "versionDate": "2023-02-12",
+      "versionDescription": "Added app icon",
+      "downloadURL": "https://github.com/tThresh/RepoCow/blob/main/Assets/IPAs/FileSwitcherPro.ipa",
+      "localizedDescription": "FileSwitcherPro is a successor of FileSwitcherX. Users can customize their device with this app.",
+      "iconURL": "https://github.com/tThresh/RepoCow/blob/main/Assets/Icons/FileSwitcherPro.jpg",
+      "tintColor": "FFFFFF",
+      "size": 2580000,
+      "screenshotURLs": [
+        "https://github.com/tThresh/RepoCow/blob/main/Assets/Screenshots/FileSwitcherPro/1.jpg"
+      ]
+    }
+  ]
+}

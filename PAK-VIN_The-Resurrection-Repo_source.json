@@ -1,0 +1,511 @@
+{
+  "name": "The Resurrection Repo",
+  "subtitle": "Your favorite iOS games, resurrected!",
+  "description": "Welcome to The Resurrection Repo!\n\nHere you can find multiple games, new and old to play on your iPhone or iPad, such as Minecraft Story Mode, Jackbox, and more!\n\nEnjoy!",
+  "iconURL": "https://i.imgur.com/g1Y1KXH.png",
+  "tintColor": "#ffab00",
+  "featuredApps": [
+    "com.nintendo.zaaa"
+  ],
+  "headerURL": "https://i.imgur.com/m8PYrgc.png",
+  "apps": [
+    {
+      "name": "Miitomo",
+      "bundleIdentifier": "com.nintendo.zaaa",
+      "developerName": "Nintendo Co. LLC & DeNA",
+      "subtitle": "Chat it up with your custom made Mii character!",
+      "localizedDescription": "PSA: THIS APP ONLY WORKS ON SUPPORTED DEVICES! IT DOES NOT FUNCTION ON ANYTHING THAT RUNS iOS or iPadOS 18.0 OR LATER! DO NOT ASK WHY IT'S CRASHING!\n\nSUPPORTED DEVICES:\niPhone 13 and earlier \niPad mini 4 and earlier\niPad 8 and earlier\n\nRevived with Kaerutomo! All right reserved by the Kaeru Team, all credit for revival goes to them.\nMore information can be found here:\n\nMiitomo is a smart-device app that sparks one-of-a-kind conversations between you and your friends. Its from Nintendo—and free to start!\n\nBasic Features of Miitomo\n■ Make a Mii to Look Like You\n\nMiitomo features the Mii characters that debuted on Nintendos Wii system. Choose from a wide library of facial features to make your Mii look just like you.\n\nAfter creating your Mii and giving it a nickname, you can further customize how it speaks and even how it moves and behaves.\n\n■ Your Mii Is Your Social Go-Between\n\nIn Miitomo, your Mii and your friends Mii characters act as social go-betweens. Your Mii will ask you questions about those little details about yourself youd never think to ask. Your friends Mii characters will do the same.\n\nYour Mii and their Mii characters tell each other these details.\n\n■ Dress Your Mii However You Want\n\nCostumes, streetwear, formal fashion, every-day style—you can find it all in the Miitomo shop.\n\nYou can get clothing items with Miitomo coins, which you earn by playing Miitomo. You can also purchase Miitomo coins.\n\n■ Win Prizes From Miitomo Drop\n\nMiitomo features a minigame in which you drop a Mii into a play field, and then watch it bounce around as it falls toward a variety of platforms. Youll win a prize based on where it lands. Some clothing items are available only in Miitomo Drop.\n\nNote: To play Miitomo Drop, you need Miitomo coins, which you earn by playing Miitomo. You can also use game tickets, which you can get as a daily bonus, among other ways. You can also purchase Miitomo coins.\n\n■ Make Your Mii a Star with Miifotos\n\nIn Miitomo, you can create images called Miifotos. You can let your creativity go wild, putting your Mii and friends Mii characters in images you make from a library of stamps, fonts, and backgrounds. You can also use photos from a smart devices camera as backgrounds for Miifoto creations.\n\n*This app offers in-app purchases. As stated in the Miitomo User Agreement, you must be at least 13 years or older to use Miitomo. We permit our third-party partners to collect data from this app for analytical and marketing purposes. For more information about our ads, please see the “How we use your information” section of the Nintendo Privacy Policy.",
+      "iconURL": "https://i.imgur.com/S3tGOZF.png",
+      "tintColor": "#549be4",
+      "category": "social",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/naH0rZD.png",
+            "width": 820,
+            "height": 452
+          },
+          {
+            "imageURL": "https://i.imgur.com/d8Vfj28.png",
+            "width": 998,
+            "height": 572
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/7x8dDv7.png",
+            "width": 820,
+            "height": 452
+          },
+          {
+            "imageURL": "https://i.imgur.com/Wjy2jN2.png",
+            "width": 998,
+            "height": 572
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable2/05.-.Miitomo.ipa",
+          "size": 38500000,
+          "version": "2.4.0",
+          "buildVersion": null,
+          "date": "2018-08-30T04:00:00-04:00",
+          "localizedDescription": "Initial and final release of Miitomo.",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+"com.apple.security.application-groups",
+"keychain-access-groups",
+"aps-environment"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "The camera is used to create characters.",
+          "NSLocationAlwaysUsageDescription": "Location information is used to register friends.",
+          "NSLocationWhenInUseUsageDescription": "Location information is used to register friends.",
+          "NSPhotoLibraryUsageDescription": "The photo album is accessed when in-app photos are used."
+        }
+      }
+    },
+    {
+      "name": "Five Nights at Freddy's",
+      "bundleIdentifier": "com.scottgames.fivenights",
+      "developerName": "CLICKTEAM LLC USA",
+      "subtitle": "Can you survive all 5 nights?",
+      "localizedDescription": "Welcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.\n\nFrom your small office you must watch the security cameras carefully. You have a very limited amount of electricity that you're allowed to use per night (corporate budget cuts, you know). That means when you run out of power for the night- no more security doors and no more lights! If something isn't right- namely if Freddy or his friends aren't in their proper places, you must find them on the monitors and protect yourself if needed!\n\nCan you survive Five Nights at Freddy's?\n\nNOTE: Interface and audio in English. Subtitles in English, French, German, Dutch, Spanish (Latin America), Italian, Portuguese (Brazil), Russian, Japanese, Chinese (Simplified), Korean.",
+      "iconURL": "https://i.imgur.com/hBVgS7z.png",
+      "tintColor": "#9f4a08",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/NduMG5p.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/8NtOYu9.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/s1rYciu.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/9ReoKuP.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/1Ln4y2K.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/kqqMN7P.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/i2PAMNT.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/ar3Luef.png",
+            "width": 626,
+            "height": 289
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/xGFAhKF.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/YPdGXRt.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/S8vEDlE.png",
+            "width": 626,
+            "height": 289
+          },
+          {
+            "imageURL": "https://i.imgur.com/Ubp0gNM.png",
+            "width": 626,
+            "height": 289
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2025-07-23T15:07:00-04:00",
+          "localizedDescription": "Latest release.",
+          "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/04.-.Five.Nights.at.Freddy.s.ipa",
+          "size": 41100000,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Minecraft Story Mode: S2",
+      "bundleIdentifier": "com.telltalegames.MC200.episode1",
+      "developerName": "Telltale Games & Mojang Studios",
+      "subtitle": "This story is just beginning.",
+      "localizedDescription": "Now that Jesse and the gang have vanquished the Wither Storm, saved the world, and become totally super famous heroes, life has gotten a bit more...complicated. With more responsibilities and less time for adventure, old friendships have started to fade -- at least until Jesse’s hand gets stuck in a creepy gauntlet that belongs to an ancient underwater temple. Together with old pals and new comrades alike, Jesse embarks on a brand new journey filled with tough choices, good times, and at least one temperamental llama.\n\nIncludes Episode 1 of a 5 part series in this brand new season from the award-winning studio, Telltale Games.\n\nEpisodes:\nhttps://drive.google.com/drive/folders/16c4wd4agviNmnhGG7Mjrs_dWRcOBXDoV?usp=sharing",
+      "iconURL": "https://i.imgur.com/KbIhxXo.png",
+      "tintColor": "#4be259",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/zkoz5uh.png",
+            "width": 405,
+            "height": 228
+          },
+          {
+            "imageURL": "https://i.imgur.com/tzvJPTh.png",
+            "width": 405,
+            "height": 228
+          },
+          {
+            "imageURL": "https://i.imgur.com/zKmS6Ul.png",
+            "width": 405,
+            "height": 228
+          },
+          {
+            "imageURL": "https://i.imgur.com/juZ8QNS.png",
+            "width": 405,
+            "height": 228
+          },
+          {
+            "imageURL": "https://i.imgur.com/5JMxjsR.png",
+            "width": 405,
+            "height": 228
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/oOwbDhx.png",
+            "width": 552,
+            "height": 414
+          },
+          {
+            "imageURL": "https://i.imgur.com/tMmmQ2Y.png",
+            "width": 552,
+            "height": 414
+          },
+          {
+            "imageURL": "https://i.imgur.com/fAJaKO3.png",
+            "width": 552,
+            "height": 414
+          },
+          {
+            "imageURL": "https://i.imgur.com/urplinO.png",
+            "width": 552,
+            "height": 414
+          },
+          {
+            "imageURL": "https://i.imgur.com/7vKT0A3.png",
+            "width": 552,
+            "height": 414
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2019-02-19T16:00:00-05:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/02.-.Minecraft.Story.Mode.S2.ipa",
+          "size": 1250200000,
+          "minOSVersion": "9.3.6"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Minecraft Story Mode",
+      "bundleIdentifier": "com.telltalegames.MC100",
+      "developerName": "Telltale Games & Mojang Studios",
+      "subtitle": "Nothing built can last forever.",
+      "localizedDescription": "THE ADVENTURE OF A LIFETIME IN THE WORLD OF MINECRAFT!\n\nIn this five part episodic series, you’ll embark on a perilous adventure across the Overworld, through the Nether, to the End, and beyond. You and your friends revere the legendary Order of the Stone: Warrior, Redstone Engineer, Griefer, and Architect; slayers of the Ender Dragon. While at EnderCon in hopes of meeting Gabriel the Warrior, you and your friends discover that something is wrong… something dreadful. Terror is unleashed, and you must set out on a quest to find The Order of the Stone if you are to save your world from oblivion.\n\n• Created by award-winning adventure game powerhouse Telltale Games, in partnership with Minecraft creators, Mojang Studios!\n\n• Featuring the voices of Patton Oswalt (Ratatouille, Agents of S.H.I.E.L.D), Brian Posehn (The Sarah Silverman Program, Mission Hill), Ashley Johnson (The Last of Us, Tales from the Borderlands), Scott Porter (Friday Night Lights, X-Men), Martha Plimpton (The Goonies, Raising Hope), Dave Fennoy (The Walking Dead: A Telltale Games Series, Batman: Arkham Knight), Corey Feldman (The Goonies, Stand by Me), Billy West (Futurama, Adventure Time), and Paul Reubens. (Tron: Uprising, Pee-Wee’s Playhouse)\n\n• You will drive the story through the decisions you make: what you say to people (and how you say it), and what you choose to do in moments of thrilling action will make this YOUR story!\n\nEpisodes can be found at these links:\nhttps://drive.google.com/drive/folders/16c4wd4agviNmnhGG7Mjrs_dWRcOBXDoV?usp=sharing",
+      "iconURL": "https://i.imgur.com/yYQpzsW.png",
+      "tintColor": "#d82804",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/1MVIygM.png",
+            "width": 750,
+            "height": 422
+          },
+          {
+            "imageURL": "https://i.imgur.com/3pNcQcT.png",
+            "width": 750,
+            "height": 422
+          },
+          {
+            "imageURL": "https://i.imgur.com/YhjytjP.png",
+            "width": 750,
+            "height": 422
+          },
+          {
+            "imageURL": "https://i.imgur.com/4gxToEJ.png",
+            "width": 750,
+            "height": 422
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/qgmFIYy.png",
+            "width": 750,
+            "height": 422
+          },
+          {
+            "imageURL": "https://i.imgur.com/drubRoA.png",
+            "width": 750,
+            "height": 422
+          },
+          {
+            "imageURL": "https://i.imgur.com/GKsYXcm.png",
+            "width": 750,
+            "height": 422
+          },
+          {
+            "imageURL": "https://i.imgur.com/G7UeBpj.png",
+            "width": 750,
+            "height": 422
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.7.0",
+          "date": "2017-11-17T08:00:00-05:00",
+          "localizedDescription": "Last release available from Telltale Games.",
+          "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/01.-.Minecraft.Story.Mode.ipa",
+          "size": 999900000,
+          "minOSVersion": "7.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "The Jackbox Party Pack 3",
+      "bundleIdentifier": "com.jackboxgames.tjpp3.os",
+      "developerName": "Jackbox Games, Inc.",
+      "subtitle": "The threequel to the smash hit 5-pack party collection!",
+      "localizedDescription": "The threequel to the party game phenomenon features FIVE new sense-shattering games!\n\n1) The say-anything sequel Quiplash 2 (3-8 players). Play all new questions or make your own!\n\n2) The deadly quiz show Trivia Murder Party (1-8 players). Match wits with a trivia-obsessed killer.\n\n3) The surprising survey game Guesspionage (2-8 players). Guess the results to silly survey questions.\n\n4) The t-shirt slugfest Tee K.O. (3-8 players). Battle your custom t-shirts to the death!\n\n5) The sneaky trickster game Fakin’ It (3-6 players). One of your friends has something to hide.\n\nPlay using your phones, tablets, or computers. No extra controllers needed!\n\nAll games support up to 10,000 audience members playing along!\n\nPlus tons of NEW features just for streamers! It’s a digital box full of actual fun!\n\nDisclaimers: \nThe Jackbox Party Pack 3 is in English only.\nThis game is local multiplayer only.\nThis game is only available on iPadOS 13.0 and up.",
+      "iconURL": "https://i.imgur.com/M44FzA6.png",
+      "tintColor": "#cebf35",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/uWl2CLl.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/YXiUPSy.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/jJ1Arws.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/mlNgLBG.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/rJXOAiv.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/jwT3VVs.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/3q43me5.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/Q6NOMxh.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/LzNLxmq.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/EZCpOhW.png",
+            "width": 626,
+            "height": 469
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/TceC96g.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/fYImohd.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/IeVEJp1.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/aFHAGJ4.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/CYy71u8.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/pg4VKTU.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/WSdkRHb.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/7vEq0aj.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/VKBjxtQ.png",
+            "width": 626,
+            "height": 469
+          },
+          {
+            "imageURL": "https://i.imgur.com/Q1jAcRH.png",
+            "width": 626,
+            "height": 469
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.2.2",
+          "date": "2024-07-21T04:00:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/PAK-VIN/The-Resurrection-Repo/releases/download/stable/03.-.The.Jackbox.Party.Pack.3.ipa",
+          "size": 750000000,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "v2.0-stable - Miitomo is back!",
+      "identifier": "news_r2isr05326",
+      "caption": "Chat it up with your favorite Mii characters, take some Miifotos, and more!",
+      "date": "2025-08-28T18:11",
+      "tintColor": "#0079ff",
+      "imageURL": "https://i.imgur.com/BMApC1j.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.nintendo.zaaa"
+    },
+    {
+      "title": "Welcome to v2.0-stable!",
+      "identifier": "news_uv1vlhi5eq",
+      "caption": "Say hello to v2.0-stable! We fixed a couple of bugs here and there, enjoy!",
+      "date": "2025-08-28T22:59",
+      "tintColor": "#ffab00",
+      "imageURL": "https://i.imgur.com/g1Y1KXH.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    },
+    {
+      "title": "v1.0-stable - Are you ready for Freddy?",
+      "identifier": "news_mtb270g5ya",
+      "caption": "Five Nights at Freddy's returns from the App Store!",
+      "date": "2025-07-22T23:11",
+      "tintColor": "#9f4a08",
+      "imageURL": "https://i.imgur.com/4QrNtDS.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.scottgames.fivenights"
+    },
+    {
+      "title": "v1.0-stable - Have a blast with The Jackbox Party Pack 3!",
+      "identifier": "news_oovkvkzcgm",
+      "caption": "Laugh your butt off in Quiplash 2, or maybe fight for your life in Trivia Murder Party, the choice is up to you and 8-10,000 players!",
+      "date": "2025-07-22T22:46",
+      "tintColor": "#c1cf00",
+      "imageURL": "https://i.imgur.com/QilLaez.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.jackboxgames.tjpp3.os"
+    },
+    {
+      "title": "v1.0-stable - Minecraft Story Mode Season 1 & 2 returns!",
+      "identifier": "news_ydlghdka91",
+      "caption": "Go on adventures with Jesse and the gang, and save the world, one block at a time.",
+      "date": "2025-07-22T22:43",
+      "tintColor": "#c51a00",
+      "imageURL": "https://i.imgur.com/BfHAQJD.jpeg",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.telltalegames.MC100"
+    },
+    {
+      "title": "Welcome to TRR v1.0-stable!",
+      "identifier": "news_f8voc3mvrx",
+      "caption": "Thank you for adding the source! Now, go have some fun with the classics from the App Store!",
+      "date": "2025-07-22T00:00",
+      "tintColor": "#ffab00",
+      "imageURL": "https://i.imgur.com/g1Y1KXH.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
+}
